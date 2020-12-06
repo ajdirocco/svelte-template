@@ -17,6 +17,17 @@ git clone https://github.com/ajdirocco/svelte-template my-template
 cd my-template
 npm install
 npm run dev
+
+```
+
+Or using npx degit:
+
+```
+npx degit ajdirocco/svelte-template#main my-template
+cd my-template
+npm install
+npm run dev
+
 ```
 
 _Thank --> [HaBit Control 0.1.0](https://github.com/mellson/habitcontrol/#habit-control)._
