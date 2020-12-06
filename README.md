@@ -13,7 +13,7 @@ The goal of this project is to be a template with support for:
 ## Install
 
 ```
-C:\Users\ajdio\monap\dev\projects>git clone https://github.com/ajdirocco/svelte-template my-template-clone
+git clone https://github.com/ajdirocco/svelte-template my-template
 cd my-template
 npm install
 npm run dev
