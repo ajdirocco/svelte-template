@@ -1,6 +1,6 @@
 {
   "name": "svelte-template",
-  "version": "0.1.4",
+  "version": "0.1.5",
     "scripts": {
     "watch:tailwind": "postcss public/tailwind.css -o public/index.css -w",
     "build:tailwind": "NODE_ENV=production postcss public/tailwind.css -o public/index.css",
