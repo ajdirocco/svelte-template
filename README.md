@@ -51,7 +51,7 @@ APP_ENV_FIREBASE_MEASUREMENT_ID=XXXXXXXXXXXXXXXXXXXXX
 
 ## Notes
 
-Remember remove each environment variable reference if they are not necesary for your project.
+Remember remove each environment variable reference if they are not necessary for your project.
 Files using environment variables:
 
 - rollaup.config.js
